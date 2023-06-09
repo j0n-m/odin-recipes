@@ -1,1 +1,2 @@
 # odin-recipes
+My first project of the The Odin Project. This project will be a simple website that displays different recipes. Furthermore, this project showcases the basic fundamental skills of only using HTML 5.
