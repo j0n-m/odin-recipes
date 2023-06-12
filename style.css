@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  text-align: center;
+  background-color: rgb(113, 106, 241);
+  padding: 0.5em 0;
+}
+
+ul a {
+  font-size: 18px;
+  display: block;
+}
+
+li {
+  padding: 0.5em 1em;
+
+}
+
+li:nth-child(odd) {
+  background-color: lightgoldenrodyellow
+}
+
+li:nth-child(even) {
+  background-color: rgb(241, 219, 163);
+}
